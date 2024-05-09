@@ -170,7 +170,7 @@ class Estudantil(Conta):
 
 def main():
 
-    print("=== Bem-vindo ao Banco da praça ===")
+    print("=== Bem-vindo ao Banco da praçan ===")
     print("O banco que cuida do seu dinheiro com segurança e confiança!")
     print()
 
